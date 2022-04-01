@@ -35,9 +35,6 @@ This project demonstrates the use of clustering, an unsupervised learning method
     ```
     $ streamlit run app.py
     ```
-- [model.py](https://github.com/Evan-Lehmann/ml-clustering/blob/main/app_pages/model.py)
-  - The slider allows you to choose the number of clusters. Once selected, the algorithm will be fit on the data and return the clustered data.
- 
 ## Dependencies
 - Python Version:
  ```
