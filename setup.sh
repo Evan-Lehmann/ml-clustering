@@ -10,6 +10,6 @@ echo "\
 headless = true\n\
 enableCORS=false\n\
 port = $PORT\n\
-[theme]
-base="dark"
+[theme]\n\
+base=\"dark\"\n\
 " > ~/.streamlit/config.toml
